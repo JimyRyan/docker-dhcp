@@ -1,2 +1,2 @@
 # docker-dhcp
-ISC DHCP Server (running on ubuntu 16.04 LTS)
+Docker ISC DHCP Server image (build on top of Ubuntu based image)
