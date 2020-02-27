@@ -1,2 +1,2 @@
 # docker-dhcp
-Docker ISC DHCP Server image (build on top of Ubuntu based image)
+Docker ISC DHCP Server image (build on top of Alpine Linux)
